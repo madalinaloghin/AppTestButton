@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTestButton</string>
+    <string name="show_toast_message">Show toast message</string>
+    <string name="open_activity">Open activity</string>
+    <string name="congratulation_n_activity_opened_with_succes_n_n_now_go_back">Congratulation!!!!!
+        Activity opened with succes :) Now, go back.
+    </string>
+</resources>
